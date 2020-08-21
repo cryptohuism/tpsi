@@ -1,4 +1,4 @@
-After cloning the repository, do: 
+After cloning the repository, install dependent tools that TFHE library requires, and do: 
 ```
 cd tpsi
 mkdir build
@@ -8,7 +8,7 @@ make
 ```
 
 
-You should install `g++, cmake(>=3.0), ntl, fftw3` tools or libraries. We test it in MacOS Mojave 10.14.2 and . Please read the fllowing instructions of TFHE library.
+You should install `g++, cmake(>=3.0), fftw3` tools or libraries. We test it in MacOS Mojave 10.14.2. Please read the fllowing instructions of TFHE library.
 
 
 
